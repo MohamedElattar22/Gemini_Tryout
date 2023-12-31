@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gemini_Tryout</string>
+    <string name="generate">Generate</string>
+    <string name="message_gemini"> Message Gemini</string>
+</resources>
